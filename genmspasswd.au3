@@ -59,7 +59,6 @@ EndFunc   ;==>_Main
 
 _Main()
 
-
 While 1
 
 	Select
